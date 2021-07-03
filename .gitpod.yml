@@ -1,3 +1,2 @@
 image:
-   parallel: 2
      file : Dockerfile
